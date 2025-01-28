@@ -5,6 +5,10 @@
 - 📫 How to reach me: mmadalenaandrade93@gmail.com | [LinkedIn](https://www.linkedin.com/in/madalena-andrade/)  
 - ⚡ Fun fact: I have a PhD in Biology and Ecology of Global Change, where I did research in ecotoxicology and biochemistry. Along the way, I discovered a new passion for coding! Outside of science and programming, I enjoy playing video games, reading, and drawing in my free time.
 
+## 💻 My Projects
+- [Python MOOC Exercises](https://github.com/MadalenaAndrade/Python-Learning-Exercises)  
+  A collection of exercises and solutions from a Python MOOC I completed.
+
 <!---
 MadalenaAndrade/MadalenaAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
