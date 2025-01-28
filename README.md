@@ -1,3 +1,4 @@
+## 🐱 About me
 - 👋 Hi, I’m @MadalenaAndrade!
 - 👀 I’m interested in learning programming, data analysis, and improving my problem-solving skills for real-world applications
 - 🌱 I’ve learned the basics of Python, SQL, and SQL Server. Currently, I’m diving into C# and .NET 8.0 through self-learning. 
