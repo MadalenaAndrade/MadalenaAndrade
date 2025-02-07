@@ -9,7 +9,7 @@
 ## 💻 My Learning Projects
 - [Python MOOC Exercises](https://github.com/MadalenaAndrade/Python-Learning-Exercises) (🔧 On Construction)
    
-  A collection of exercises and solutions, showing my evolution from a Python MOOC I completed.
+  A collection of python exercises, showing my evolution from a Python MOOC I attended.
 - [SQL Server Database](https://github.com/MadalenaAndrade/LibraryDB-SQL-Scripts) (🔧 On Construction)
   
   A project where I practiced writing SQL queries by creating a database in SQL Server, including tables, relationships, and sample data. Additionally, it contains separate queries for procedures and other database functions.
