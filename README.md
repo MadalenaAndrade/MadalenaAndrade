@@ -10,16 +10,16 @@
 - [Python MOOC Exercises](https://github.com/MadalenaAndrade/Python-Learning-Exercises)
    
   A collection of python exercises, showing my evolution from a Python MOOC I attended.
-- [SQL Server Database](https://github.com/MadalenaAndrade/LibraryDB-SQL-Scripts) (🔧 On Construction)
+- [SQL Server Database](https://github.com/MadalenaAndrade/LibraryDB-SQL-Scripts) (🔧 Under Construction)
   
   A project where I practiced writing SQL queries by creating a database in SQL Server, including tables, relationships, and sample data. Additionally, it contains separate queries for procedures and other database functions.
-- [Python DB Management CLI](https://github.com/MadalenaAndrade/LibraryCLI-Python) (🔧 On Construction)
+- [Python DB Management CLI](https://github.com/MadalenaAndrade/LibraryCLI-Python) (🔧 Under Construction)
   
   A command-line interface (CLI) project where I use Python to manage a database. This tool lets users add, retrieve, and delete data from a SQL Server database. It was built to help me strengthen my Python skills, as well as to learn new tools and concepts and how to interact with databases.
-- [FibonacciCalculator and TextProcessor](https://github.com/MadalenaAndrade/FibonacciTextCLI-API) (🔧 On Construction)
+- [FibonacciCalculator and TextProcessor](https://github.com/MadalenaAndrade/FibonacciTextCLI-API) (🔧 Under Construction)
   
   A simple C# application that includes a Fibonacci number calculator and a basic text processor. I created this as a way to learn more about C# and ASP.NET Core while experimenting with both console and web API development.
-- [Library Management API](https://github.com/MadalenaAndrade/FibonacciTextCLI-API) (🔧 On Construction)
+- [Library Management API](https://github.com/MadalenaAndrade/FibonacciTextCLI-API) (🔧 Under Construction)
   
   A training project where I built a RESTful API to manage a fictitious library database, using ASP.NET Core and Entity Framework Core. I used it to practice API development and database management concepts.
 <!---
