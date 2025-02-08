@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I have a PhD in Biology and Ecology of Global Change, where I did research in ecotoxicology and biochemistry. Along the way, I discovered a new passion for coding! Outside of science and programming, I enjoy playing video games, reading, and drawing in my free time.
 
 ## 💻 My Learning Projects
-- [Python MOOC Exercises](https://github.com/MadalenaAndrade/Python-Learning-Exercises) (🔧 On Construction)
+- [Python MOOC Exercises](https://github.com/MadalenaAndrade/Python-Learning-Exercises)
    
   A collection of python exercises, showing my evolution from a Python MOOC I attended.
 - [SQL Server Database](https://github.com/MadalenaAndrade/LibraryDB-SQL-Scripts) (🔧 On Construction)
