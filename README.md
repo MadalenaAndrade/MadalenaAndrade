@@ -13,7 +13,7 @@
 - [SQL Server Database](https://github.com/MadalenaAndrade/LibraryDB-SQL-Scripts) 
   
   A project where I practiced writing SQL queries by creating a database in SQL Server, including tables, relationships, and sample data. Additionally, it contains separate queries for procedures and other database functions.
-- [Python DB Management CLI](https://github.com/MadalenaAndrade/LibraryCLI-Python) (🔧 Under Construction)
+- [Python DB Management CLI](https://github.com/MadalenaAndrade/LibraryCLI-Python) 
   
   A command-line interface (CLI) project where I use Python to manage a database. This tool lets users add, retrieve, and delete data from a SQL Server database. It was built to help me strengthen my Python skills, as well as to learn new tools and concepts and how to interact with databases.
 - [FibonacciCalculator and TextProcessor](https://github.com/MadalenaAndrade/FibonacciTextCLI-API) (🔧 Under Construction)
