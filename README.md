@@ -21,7 +21,7 @@
   A simple C# application that includes a Fibonacci number calculator and a basic text processor. I created this as a way to learn more about C# and ASP.NET Core while experimenting with both console and web API development.
 - [Library Management API](https://github.com/MadalenaAndrade/FibonacciTextCLI-API) (🔧 Ongoing)
   
-  A training project where I built a RESTful API to manage a fictitious library database, using ASP.NET Core and Entity Framework Core. I used it to practice API development and database management concepts.
+  A training project where I am building a RESTful API to manage a fictitious library database, using ASP.NET Core and Entity Framework Core. I am using it to practice API development and database management concepts.
 <!---
 MadalenaAndrade/MadalenaAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
