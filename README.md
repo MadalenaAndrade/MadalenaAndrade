@@ -19,8 +19,12 @@
 - [FibonacciCalculator and TextProcessor](https://github.com/MadalenaAndrade/FibonacciTextCLI-API) <br>
   A simple C# application that includes a Fibonacci number calculator and a basic text processor. I created this as a way to learn more about C# and ASP.NET Core while experimenting with both console and web API development.
 
-- [Library Management API](https://github.com/MadalenaAndrade/LibraryManagementAPI) (🔧 Ongoing) <br>
-  A training project where I’m building a RESTful API to manage a fictitious library database using ASP.NET Core 8 and Entity Framework Core. I'm using this project to help me practice API development, database management, and Cloud deployment (Azure). 
+- [Library Management API](https://github.com/MadalenaAndrade/LibraryManagementAPI)  <br>
+  A training project where I built a RESTful API to manage a fictitious library database using ASP.NET Core 8 and Entity Framework Core.  I practiced database management, API development, Azure deployment, and used Terraform for infrastructure automation.
+
+- [Library Management UI](https://github.com/MadalenaAndrade/LibraryManagementUI) (🔧 On construction) <br>
+  A new project where I'm building a React frontend to consume the Library Management API.  This project helps me solidify my understanding of frontend fundamentals, such as HTML, CSS, and JavaScript, while also exploring how the frontend connects with the backend to display dynamic data and create user-friendly web interface.
+
 <!---
 MadalenaAndrade/MadalenaAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
