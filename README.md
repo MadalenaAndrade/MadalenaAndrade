@@ -1,8 +1,8 @@
 ## 🐱 About me
 - 👋 Hi, I’m @MadalenaAndrade!
 - 👀 I’m interested in learning programming, data analysis, and improving my problem-solving skills for real-world applications.
-- 🌱 I’ve learned the basics of Python and SQL, especially using SQL Server. Now, I’m diving into C# and .NET 8.0 through self-learning with some helpful guidance from a friend.
-- 💞️ I’m willing to collaborate on a entry-level open-source projects or Python-based tasks!
+- 🌱 I’ve started with **Python** and **SQL** (**SQL Server**), then explored **C#** and **.NET 8.0** with some helpful guidance from a friend. Now, I’m diving into **React** development while strengthening my foundations in **HTML**, **CSS**, and **JavaScript**.
+- 💞️ I’m willing to collaborate on a entry-level open-source projects, Python-based tasks or C#/.NET projects!
 - 📫 How to reach me: mmadalenaandrade93@gmail.com | [LinkedIn](https://www.linkedin.com/in/madalena-andrade/)  
 - ⚡ Fun fact: I have a PhD in Biology and Ecology of Global Change, where I did research in ecotoxicology and biochemistry. Along the way, I discovered a new passion for coding! Outside of science and programming, I enjoy playing video games, reading, and drawing in my free time.
 
