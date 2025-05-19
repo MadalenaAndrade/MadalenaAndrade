@@ -22,8 +22,8 @@
 - [Library Management API](https://github.com/MadalenaAndrade/LibraryManagementAPI)  <br>
   A training project where I built a RESTful API to manage a fictitious library database using ASP.NET Core 8 and Entity Framework Core.  I practiced database management, API development, Azure deployment, and used Terraform for infrastructure automation.
 
-- [Library Management UI](https://github.com/MadalenaAndrade/LibraryManagementUI) (🔧 On construction) <br>
-  A new project where I'm building a React frontend to consume the Library Management API.  This project helps me solidify my understanding of frontend fundamentals, such as HTML, CSS, and JavaScript, while also exploring how the frontend connects with the backend to display dynamic data and create user-friendly web interface.
+- [Library Management UI](https://github.com/MadalenaAndrade/LibraryManagementUI) <br>
+  A  project where I built a React frontend to consume the Library Management API.  This project helped me solidify my understanding of frontend fundamentals, such as HTML, CSS, and JavaScript, while also exploring how the frontend connects with the backend to display dynamic data and create user-friendly web interface.
 
 <!---
 MadalenaAndrade/MadalenaAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
